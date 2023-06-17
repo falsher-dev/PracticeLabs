@@ -1,0 +1,6 @@
+Name,Species,Weight,Count
+Lion,Carnivore,190.0,5
+Tiger,,160.0,4
+Elephant,Carnivore,600.0,1
+Giraffe,Herbivore,1000.0,8
+,Herbivore,,15
